@@ -2,4 +2,6 @@ hello git
 add some more text
 add extra text
 
-add posts
+add posts 2
+
+update posts

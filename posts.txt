@@ -1,1 +1,3 @@
 posts detail
+
+update posts
