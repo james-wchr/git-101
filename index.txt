@@ -7,3 +7,4 @@ add posts 2
 update posts
 
 fix tests
+some bad things
