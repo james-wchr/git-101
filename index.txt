@@ -5,3 +5,5 @@ add extra text
 add posts 2
 
 update posts
+
+fix tests
