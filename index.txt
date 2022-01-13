@@ -7,6 +7,3 @@ add posts 2
 update posts
 
 fix tests
-
-add new tests 1
-add new tests 2
